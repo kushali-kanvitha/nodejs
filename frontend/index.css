@@ -1,3 +1,20 @@
+body{
+    background-color:rgb(110, 110, 143);
+}
 h1{
-    color:red;
+    color:rgb(8, 1, 1);
+}
+#home-card
+{
+   text-align: center;
+   border-color:black;
+   border-style:dotted;  
+   border:3px dotted black;
+
+}
+#p2{
+    color:blue;
+}
+#home-card:hover{
+    background-color:rgb(121, 181, 180);
 }
