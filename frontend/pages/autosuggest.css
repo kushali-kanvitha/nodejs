@@ -24,6 +24,9 @@ body{
 .logo-first{
     color:blueviolet;
 }
+.logo-last{
+    color:rgb(224, 17, 179)
+}
 .lens{
     position:relative;
     left:45px;
@@ -45,4 +48,9 @@ h1{
 }
 p{
     font-size:20px;
+}
+#suggestion-item{
+    border:1px solid gray;
+    padding:10px;
+    border-radius:10px;
 }
