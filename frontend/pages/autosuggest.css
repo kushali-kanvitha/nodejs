@@ -1,12 +1,12 @@
 body{
     text-align:center;
 }
-.card-1
+/*.card-1
 {
     
     border: 3px solid orangered;
     border-radius:15px; 
-}
+}*/
 .left-bar{
     position:absolute;
     top:20px;
@@ -36,7 +36,13 @@ body{
 
 }
 #suggestion-box{
-    border:1px solid black;
+    /* border:1px solid black; */
     width:40%;
     margin-left:31%;
+}
+h1{
+    font-size:80px;
+}
+p{
+    font-size:20px;
 }
