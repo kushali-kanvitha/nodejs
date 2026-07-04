@@ -1,0 +1,42 @@
+body{
+    text-align:center;
+}
+.card-1
+{
+    
+    border: 3px solid orangered;
+    border-radius:15px; 
+}
+.left-bar{
+    position:absolute;
+    top:20px;
+    left:20px;
+}
+.right-bar{
+    position:absolute;
+    top:20px;
+    right:20px;
+}
+.search-section{
+    text-align:center;
+    margin-top:100px;
+}
+.logo-first{
+    color:blueviolet;
+}
+.lens{
+    position:relative;
+    left:45px;
+
+}
+.search-box{
+    padding:15px 15px 15px 45px;
+    border-radius:30px;
+    width:40%;
+
+}
+#suggestion-box{
+    border:1px solid black;
+    width:40%;
+    margin-left:31%;
+}
