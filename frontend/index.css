@@ -35,6 +35,10 @@ h1{
 #card{
   align-items: center;
   margin-top: 5px;
+  border-color:black;
+   border-style:solid;  
+   border:3px solid black;
+   
 }
 
 #card-img{
